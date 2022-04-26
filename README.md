@@ -11,7 +11,7 @@ _Declaration-based Prompt Tuning for Visual Question Answering_.
 
 ### Declaration Generation
 
-Please follow [Declaration Generation](Declaration Generation/README.md) to set up the 
+Please follow [DeclarationGeneration](DeclarationGeneration/README.md) to set up the 
 experiments for declaration generation.
 
 ### Visual Question Answering
