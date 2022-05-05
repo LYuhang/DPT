@@ -21,11 +21,3 @@ answering.
 
 ## Citation
 TOUPDATE
-```
-@inproceedings{liu2022dpt,
-  title = {Declaration-based Prompt Tuning for Visual Question Answering},
-  author = {Yuhang Liu and Wei Wei and Daowan Peng and Feida Zhu},
-  year = {2022},
-  booktitle = {Proceedings of the 31st International Joint Conference on Artificial Intelligence, IJCAI 2022}
-}
-```
